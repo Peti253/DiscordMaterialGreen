@@ -1,0 +1,90 @@
+/**
+ * @name Peti Material Green
+ * @author Peti
+ * @version 0.1
+ * @description make your discord green
+*/
+
+.theme-dark{
+	--background-primary: #0f1812ff;
+	--background-primary-alt: #0f1812ff;
+	--background-secondary: #0f1812ff;
+	--background-secondary-chat: #0f1812ff;
+	--background-secondary-alt: #0f1812ff;
+	--background-tertiary: #1b2920ff;
+	--deprecated-card-bg: #1b2920ff;
+	--deprecated-store-bg: #1b2920ff;
+	--background-attachments: #1b2920ff;
+	--background-search-bar: #1b2920ff;
+	--background-switcher: #1b2920ff;
+	--background-chatbox: #1b2920ff;
+	--background-lights-out: #000;
+	--background-pinned: #1b2920ff;
+	--background-profile-expand: #1b2920ff;
+	--background-emoji: #1b2920ff;
+	--text-lights-out: #fffffff;
+	--background-titlebar: #003920ff;
+    --scrollbar-auto-thumb: #1b2920ff;
+	--channeltextarea-background: #1b2920ff;
+	--background-modifier-hover: #1b2920ff;
+	--SC-spotify-green: #75daa2;
+	--profile-body-background-color: #0f1812ff;
+	--activity-card-background: #75daa2;
+	--scrollbar-auto-thumb: #35483c;
+	--scrollbar-auto-track: #1b2920;
+	--interactive-normal: #8a938b;
+	--profile-gradient-primary-color: #35483c;
+	--profile-gradient-secondary-color: #35483c;
+	--interactive-active: #c0c9c0;
+	--background-modifier-selected: #35483c;
+	--brand-experiment: #75daa2;
+	--button-secondary-background: #35483c;
+	--control-brand-foreground: #35483c;
+ 	--primary-800: #35483c;
+    --primary-630: #35483c;
+	--primary-600: #374b3e;
+	--input-background: #35483c;
+	--SC-spotify-green: #003920;
+	--status-positive-background: #75daa2;
+	--text-positive: #75daa2;
+	--status-positive-text: #0f1812;
+	--green-360: #75daa2;
+	--deprecated-text-input-bg: #1b2920ff;
+	--channels-default: #afb7afff;
+	--background-accent: #75daa2ff;
+	--text-brand: #75daa2ff;
+	--white-500: #ffffff;
+}
+.icon-2O29O0{
+	border-radius: 28px;
+}
+.replyBar-1oi75v{
+	background-color: #1b2920ff;
+}
+}
+.iconBadge-32fMme{
+	color: #0f1812ff;
+}
+.addFriendInputWrapper-kkoSV9:focus-within{
+	border-color: #75daa2;
+}
+.container-1Lk8p7{
+	background-color: #ffffff;
+}
+.wrapper-2RrXDg{
+	background-color: var(--background-tertiary);
+}
+.appliedBoostContainer-1b4KCm > div:nth-child(2){
+    border-radius: 8px 8px 0px 0px;
+}
+.container-1Lk8p7{
+	border-radius: 4px 4px 4px 4px;
+}
+.container-6sXIoE{
+	border-top: 1px solid var(--background-modifier-accent);
+	border-bottom: 1px solid var(--background-modifier-accent);
+	background-color: #000000ff;
+}
+.auto-Ge5KZx::-webkit-scrollbar-track{
+    background-color: transparent;
+}
