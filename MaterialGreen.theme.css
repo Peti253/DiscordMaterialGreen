@@ -1,5 +1,5 @@
 /**
- * @name Peti Material Green
+ * @name Petis Material Green
  * @author Peti
  * @version 0.1
  * @description make your discord green
@@ -52,17 +52,25 @@
 	--deprecated-text-input-bg: #1b2920ff;
 	--channels-default: #afb7afff;
 	--background-accent: #75daa2ff;
-	--text-brand: #75daa2ff;
+	--text-brand: #75daa2;
 	--white-500: #ffffff;
 	--channel-icon: #afb7afff;
-	--interactive-muted: #7a7f7aff;
+	--interactive-muted: #7A7F7Aff;
 }
 .icon-2O29O0{
 	border-radius: 28px;
 }
-.replyBar-1oi75v{
+.inline{
+	background-color: #1b2920ff !important;
+}
+.scrollbarGhostHairline-2LpzZ9{
+	background-color: #1b2920ff !important;
+}
+.attachment-1PZZB2{
 	background-color: #1b2920ff;
 }
+.replyBar-1oi75v{
+	background-color: #1b2920ff;
 }
 .iconBadge-32fMme{
 	color: #0f1812ff;
