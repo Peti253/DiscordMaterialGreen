@@ -1,5 +1,8 @@
+# OUTDATED
+
+
 # DiscordMaterialGreen
-###Make your discord green
+### Make your discord green
 
 ## How to use:
 You need to have [BetterDiscord](https://betterdiscord.app/) installed!
